@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased.">
-      <change beforePath="$PROJECT_DIR$/Starry Night.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starry Night.py" afterDir="false" />
+    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Fixed the integer/float error caused by the randrange function.">
+      <change afterPath="$PROJECT_DIR$/Turtle Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Starry Night.executor": "Run",
+    "Python.Turtle Game.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.balloon.executor": "Run",
     "Python.main.executor": "Run",
@@ -119,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705951329618</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed the integer/float error caused by the randrange function.">
+      <option name="closed" value="true" />
+      <created>1705951546815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705951546815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +140,7 @@
     <MESSAGE value="Set up the screen properties.&#10;&#10;Created the function to draw a single star." />
     <MESSAGE value="Randomized the star size and started my for loop." />
     <MESSAGE value="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased." />
-    <option name="LAST_COMMIT_MESSAGE" value="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased." />
+    <MESSAGE value="Fixed the integer/float error caused by the randrange function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the integer/float error caused by the randrange function." />
   </component>
 </project>
