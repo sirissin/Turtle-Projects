@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Fixed the integer/float error caused by the randrange function.">
-      <change afterPath="$PROJECT_DIR$/Turtle Game.py" afterDir="false" />
+    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Created the background color representing sand.&#10;Created the box and filled it with blue to represent the ocean.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705951546815</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Created the background color representing sand.&#10;Created the box and filled it with blue to represent the ocean.">
+      <option name="closed" value="true" />
+      <created>1705956021521</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705956021521</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +149,7 @@
     <MESSAGE value="Randomized the star size and started my for loop." />
     <MESSAGE value="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased." />
     <MESSAGE value="Fixed the integer/float error caused by the randrange function." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed the integer/float error caused by the randrange function." />
+    <MESSAGE value="Created the background color representing sand.&#10;Created the box and filled it with blue to represent the ocean." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the background color representing sand.&#10;Created the box and filled it with blue to represent the ocean." />
   </component>
 </project>
