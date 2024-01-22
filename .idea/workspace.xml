@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Changed the shape of the turtle to a Turtle.&#10;Created the functions for movement of the Turtle.&#10;Mapped the keystrokes to the functions for movement.&#10;&#10;Turtle">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Game.py" afterDir="false" />
-    </list>
+    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Changed the properties of the screen so that only what is seen is what is needed to be seen.&#10;&#10;Created the check goal function to detect if the Turtle has made it to the ocean. Along with this, created the win condition text and reset the key functionality." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705956855171</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changed the properties of the screen so that only what is seen is what is needed to be seen.&#10;&#10;Created the check goal function to detect if the Turtle has made it to the ocean. Along with this, created the win condition text and reset the key functionality.">
+      <option name="closed" value="true" />
+      <created>1705958075193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705958075193</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +164,7 @@
     <MESSAGE value="Fixed the integer/float error caused by the randrange function." />
     <MESSAGE value="Created the background color representing sand.&#10;Created the box and filled it with blue to represent the ocean." />
     <MESSAGE value="Changed the shape of the turtle to a Turtle.&#10;Created the functions for movement of the Turtle.&#10;Mapped the keystrokes to the functions for movement.&#10;&#10;Turtle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the shape of the turtle to a Turtle.&#10;Created the functions for movement of the Turtle.&#10;Mapped the keystrokes to the functions for movement.&#10;&#10;Turtle" />
+    <MESSAGE value="Changed the properties of the screen so that only what is seen is what is needed to be seen.&#10;&#10;Created the check goal function to detect if the Turtle has made it to the ocean. Along with this, created the win condition text and reset the key functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the properties of the screen so that only what is seen is what is needed to be seen.&#10;&#10;Created the check goal function to detect if the Turtle has made it to the ocean. Along with this, created the win condition text and reset the key functionality." />
   </component>
 </project>

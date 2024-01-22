@@ -57,6 +57,7 @@ def move_right():
     check_goal()
 
 
+# Checking for a win condition
 def check_goal():
     if xcor() > 100:
         hideturtle()
