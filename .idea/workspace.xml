@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Inflation now require the user to press the &quot;Up&quot; arrow key. The balloon will now pop when the set limit is reached and print text to represent the pop.">
+    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Added some color variations that allow the balloon to change color after each time it pops. Along those lines, made a tracker for the initial color change. &#10;Finally, added a little bit of screen customization by changing the window's title name and background color to a sky blue. &#10;Also changed when the window closes so that there aren't any accidental misclicks that close the program early.">
+      <change afterPath="$PROJECT_DIR$/Starry Night.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/balloon.py" beforeDir="false" afterPath="$PROJECT_DIR$/balloon.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Starry Night.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.balloon.executor": "Run",
     "Python.main.executor": "Run",
@@ -87,13 +88,22 @@
       <option name="project" value="LOCAL" />
       <updated>1705944602028</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added some color variations that allow the balloon to change color after each time it pops. Along those lines, made a tracker for the initial color change. &#10;Finally, added a little bit of screen customization by changing the window's title name and background color to a sky blue. &#10;Also changed when the window closes so that there aren't any accidental misclicks that close the program early.">
+      <option name="closed" value="true" />
+      <created>1705948903504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705948903504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basics with turtle for drawing a dot. Also made sure the window won't close until the close window button is selected." />
     <MESSAGE value="Added a basic function for inflation." />
     <MESSAGE value="Inflation now require the user to press the &quot;Up&quot; arrow key. The balloon will now pop when the set limit is reached and print text to represent the pop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Inflation now require the user to press the &quot;Up&quot; arrow key. The balloon will now pop when the set limit is reached and print text to represent the pop." />
+    <MESSAGE value="Added some color variations that allow the balloon to change color after each time it pops. Along those lines, made a tracker for the initial color change. &#10;Finally, added a little bit of screen customization by changing the window's title name and background color to a sky blue. &#10;Also changed when the window closes so that there aren't any accidental misclicks that close the program early." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some color variations that allow the balloon to change color after each time it pops. Along those lines, made a tracker for the initial color change. &#10;Finally, added a little bit of screen customization by changing the window's title name and background color to a sky blue. &#10;Also changed when the window closes so that there aren't any accidental misclicks that close the program early." />
   </component>
 </project>
