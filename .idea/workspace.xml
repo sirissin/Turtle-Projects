@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="Randomized the star size and started my for loop.">
+    <list default="true" id="0476f197-da23-43b3-a664-ea8fce7e54b2" name="Changes" comment="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased.">
       <change beforePath="$PROJECT_DIR$/Starry Night.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starry Night.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705950917238</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased.">
+      <option name="closed" value="true" />
+      <created>1705951329618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705951329618</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +129,7 @@
     <MESSAGE value="Added some color variations that allow the balloon to change color after each time it pops. Along those lines, made a tracker for the initial color change. &#10;Finally, added a little bit of screen customization by changing the window's title name and background color to a sky blue. &#10;Also changed when the window closes so that there aren't any accidental misclicks that close the program early." />
     <MESSAGE value="Set up the screen properties.&#10;&#10;Created the function to draw a single star." />
     <MESSAGE value="Randomized the star size and started my for loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Randomized the star size and started my for loop." />
+    <MESSAGE value="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased." />
+    <option name="LAST_COMMIT_MESSAGE" value="For loop makes 100 stars.&#10;Location of stars defined.&#10;Draw Speed increased." />
   </component>
 </project>

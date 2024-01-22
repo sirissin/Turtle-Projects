@@ -24,8 +24,8 @@ def draw_star(xpos, ypos):
 
 #Loop to make 100 stars
 for x in range(100):
-    xpos = randrange(-width / 2, width / 2)
-    ypos = randrange(-height / 2, height / 2)
+    xpos = randrange(round(-width / 2), round(width / 2))
+    ypos = randrange(round(-height / 2), round(height / 2))
     draw_star(xpos, ypos)
 
 
