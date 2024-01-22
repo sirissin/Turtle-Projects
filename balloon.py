@@ -1,19 +1,31 @@
 from turtle import *
+import random
+
+#Screen Properties
+title("Balloon Popper")
+bgcolor("#ADD8E6")
 
 #Balloon parameters
 diameter = 40
 pop_diameter = 100
+#Range of colors for the balloons
+color_wheel = ["red", "yellow", "blue", "green", "purple"]
+#Simple counter to allow for different colored balloons after the first pop
+counter = 0
+
+hideturtle()
 
 
 #Draw the balloon
 def draw_balloon():
-    color("red")
+    if counter == 0:
+        color('red')
     dot(diameter)
 
 
 #Inflate the Balloon
 def inflate_balloon():
-    global diameter
+    global diameter, counter
     diameter = diameter + 10
     draw_balloon()
 
@@ -21,7 +33,10 @@ def inflate_balloon():
     if diameter >= pop_diameter:
         clear()
         diameter = 40
-        write('POP!')
+        write('POP!', font=('Arial', 10, 'normal'))
+        bal_col = random.choice(color_wheel)
+        color(bal_col)
+        counter += 1
 
 
 draw_balloon()
@@ -30,4 +45,4 @@ draw_balloon()
 onkey(inflate_balloon, "Up")
 listen()
 
-Screen().exitonclick()
+done()
